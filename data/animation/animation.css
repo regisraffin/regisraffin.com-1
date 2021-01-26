@@ -11,132 +11,145 @@
 .blok.movie1{display:inline-block;}
 
 .movie2{ 
-	background-image:url("heroes.jpg");
+	background-image:url("2021.jpg");
 }
 .movie2 .customer:after{
-	content:"heroes in lockdown";
+	content:"come on 2021";
 }
 .movie2 .title:before{
-	content:"heroes in lockdown";
-}
-.blok:hover.movie2 .title:after{display:block;}
-.blok.movie2{display:inline-block;}
-
-.movie3{ 
-	background-image:url("clandestino.jpg");
-}
-.movie3 .customer:after{
-	content:"manu chao";
-}
-.movie3 .title:before{
-	content:"Clandestino";
+	content:"come on 2021";
 }
 .blok:hover.movie3 .title:after{display:block;}
 .blok.movie3{display:inline-block;}
 
+.movie3{ 
+	background-image:url("heroes.jpg");
+}
+.movie3 .customer:after{
+	content:"heroes in lockdown";
+}
+.movie3 .title:before{
+	content:"heroes in lockdown";
+}
+.blok:hover.movie3 .title:after{display:block;}
+.blok.movie3{display:inline-block;}
 
 .movie4{ 
-	background-image:url("dreamup.jpg");
+	background-image:url("clandestino.jpg");
 }
 .movie4 .customer:after{
-	content:"Bnp Paribas";
+	content:"manu chao";
 }
 .movie4 .title:before{
-	content:"Dream Up";
+	content:"Clandestino";
 }
 .blok:hover.movie4 .title:after{display:block;}
 .blok.movie4{display:inline-block;}
 
 
 .movie5{ 
-	background-image:url("groom peplum.jpg");
+	background-image:url("dreamup.jpg");
 }
 .movie5 .customer:after{
-	content:"Louis Vuitton";
+	content:"Bnp Paribas";
 }
 .movie5 .title:before{
-	content:"The little groom is fighting in the arena";
+	content:"Dream Up";
 }
 .blok:hover.movie5 .title:after{display:block;}
 .blok.movie5{display:inline-block;}
 
 
-.movie6{
-	background-image:url("groom western.jpg");
+.movie6{ 
+	background-image:url("groom peplum.jpg");
 }
 .movie6 .customer:after{
 	content:"Louis Vuitton";
 }
 .movie6 .title:before{
-	content:"the little groom in duel in the dust";
+	content:"The little groom is fighting in the arena";
 }
 .blok:hover.movie6 .title:after{display:block;}
 .blok.movie6{display:inline-block;}
 
 
 .movie7{
-	background-image:url("fingers_sport.jpg");
+	background-image:url("groom western.jpg");
 }
 .movie7 .customer:after{
-	content:"Crazy Fingers";
+	content:"Louis Vuitton";
 }
 .movie7 .title:before{
-	content:"crazy fingers the race";
+	content:"the little groom in duel in the dust";
 }
 .blok:hover.movie7 .title:after{display:block;}
 .blok.movie7{display:inline-block;}
 
 
 .movie8{
-	background-image:url("fingers_indy.jpg");
+	background-image:url("fingers_sport.jpg");
 }
 .movie8 .customer:after{
 	content:"Crazy Fingers";
 }
 .movie8 .title:before{
-	content:"crazy fingers the adventurer";
+	content:"crazy fingers the race";
 }
 .blok:hover.movie8 .title:after{display:block;}
 .blok.movie8{display:inline-block;}
 
 
 .movie9{
-	background-image:url("confrerie.jpg");
+	background-image:url("fingers_indy.jpg");
 }
 .movie9 .customer:after{
-	content:"cinema";
+	content:"Crazy Fingers";
 }
 .movie9 .title:before{
-	content:"la confrérie des larmes";
+	content:"crazy fingers the adventurer";
 }
 .blok:hover.movie9 .title:after{display:block;}
 .blok.movie9{display:inline-block;}
 
 
 .movie10{
-	background-image:url("groom swinging.jpg");
+	background-image:url("confrerie.jpg");
 }
 .movie10 .customer:after{
-	content:"louis vuitton";
+	content:"cinema";
 }
 .movie10 .title:before{
-	content:"the little groom is swinging in the clouds";
+	content:"la confrérie des larmes";
 }
 .blok:hover.movie10 .title:after{display:block;}
 .blok.movie10{display:inline-block;}
 
 
 .movie11{
-	background-image:url("redjourney.jpg");
+	background-image:url("groom swinging.jpg");
 }
 .movie11 .customer:after{
 	content:"louis vuitton";
 }
 .movie11 .title:before{
-	content:"red journey";
+	content:"the little groom is swinging in the clouds";
 }
 .blok:hover.movie11 .title:after{display:block;}
 .blok.movie11{display:inline-block;}
+
+
+.movie12{
+	background-image:url("redjourney.jpg");
+}
+.movie12 .customer:after{
+	content:"louis vuitton";
+}
+.movie12 .title:before{
+	content:"red journey";
+}
+.blok:hover.movie12 .title:after{display:block;}
+.blok.movie12{display:inline-block;}
+
 
 
 
